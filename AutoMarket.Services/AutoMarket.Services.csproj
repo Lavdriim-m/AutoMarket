@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AutoMarket.Core\AutoMarket.Core.csproj" />
     <ProjectReference Include="..\AutoMarket.Infrastructure\AutoMarket.Infrastructure.csproj" />
   </ItemGroup>
