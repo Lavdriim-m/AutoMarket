@@ -17,6 +17,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AutoMarket.Core\AutoMarket.Core.csproj" />
+    <ProjectReference Include="..\AutoMarket.Services\AutoMarket.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 

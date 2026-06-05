@@ -1,3 +1,7 @@
 <Solution>
   <Project Path="AutoMarket.API/AutoMarket.API.csproj" />
+  <Project Path="AutoMarket.Core/AutoMarket.Core.csproj" />
+  <Project Path="AutoMarket.Infrastructure/AutoMarket.Infrastructure.csproj" />
+  <Project Path="AutoMarket.Services/AutoMarket.Services.csproj" />
+  <Project Path="AutoMarket.Tests/AutoMarket.Tests.csproj" />
 </Solution>

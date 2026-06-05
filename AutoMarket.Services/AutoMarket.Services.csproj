@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AutoMarket.Core\AutoMarket.Core.csproj" />
+    <ProjectReference Include="..\AutoMarket.Infrastructure\AutoMarket.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
